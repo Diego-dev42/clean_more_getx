@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Clean more GetX',
+      title: 'Clean more GetX app',
       home: MainThemingAndStateManagementApp(),
     );
   }
